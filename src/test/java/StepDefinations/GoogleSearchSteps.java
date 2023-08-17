@@ -59,7 +59,7 @@ public class GoogleSearchSteps {
 		 
 		driver.getPageSource().concat("Online Courses");
 		 
-		 driver.close();
+		// driver.close();
 		 driver.quit();
 	}
 
